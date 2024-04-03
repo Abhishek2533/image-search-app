@@ -1,4 +1,4 @@
-const accessKey = "1dgeFcEa0eOY6eYqNyDoPsdbeq9cUC_Hz6sYkpp-2aA";
+const accessKey = "YOUR_UNSPLASH_ACCESS_KEY";
 
 
 const formElement = document.querySelector("form");
